@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
-/*author: Rose Rotnem
+/*author: 
 Merging sort to simulate the process schedulor
 */
 
