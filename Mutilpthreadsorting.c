@@ -164,7 +164,7 @@ int main( int argc, char *argv[] )  {
 
     //
 
-   printf("Rose Rotnem: \nProject 1: \nThis program starts now....\n");
+   printf(" \nProject 1: \nThis program starts now....\n");
    //check if the right amount of argument
    if( argc == 2 ) {
       printf("The input array size is %s\n", argv[1]);
